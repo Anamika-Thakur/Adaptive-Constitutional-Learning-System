@@ -64,4 +64,20 @@ Adaptive Difficulty Recommendation
 ```
 ---
 
+#  Result
+Accuracy: 89.00%
+
+Classification Report:
+
+                     precision   recall  f1-score   support
+
+               0       0.88      1.00      0.94       163
+               1       1.00      0.41      0.58        37
+
+        accuracy                           0.89       200
+       macro avg       0.94      0.70      0.76       200
+    weighted avg       0.90      0.89      0.87       200
+
+---
+
 Streamlit App Link : https://adaptive-constitutional-learning-system-q8lrxzpjcgwen38ufaewrz.streamlit.app/
